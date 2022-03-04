@@ -6,6 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ArrayAdapter
 import com.example.perludilindungi.R
 
 class FaskesFragment : Fragment() {
@@ -20,7 +21,11 @@ class FaskesFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.faskes_fragment, container, false)
+        val provinsi = resources.getStringArray(R.array.provinsi)
+        val arrayAdapter = ArrayAdapter(requireContext(), R.layout.dropdown_item, provinsi)
+        val view = inflater.inflate(R.layout.faskes_fragment, container, false)
+        view.autoCompleteTextView.setAdapter(arrayAdapter)
+        return view
     }
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {

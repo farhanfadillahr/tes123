@@ -5,4 +5,9 @@
     <string name="check_in_status_success">Berhasil</string>
     <string name="check_in_status_fail">Gagal</string>
     <string name="room_temperature_fromat">%1$s°C</string>
+    <string-array name="provinsi">
+        <item>Jawa barat</item>
+        <item>Jawa timur</item>
+        <item>Jawa tengah</item>
+    </string-array>
 </resources>
