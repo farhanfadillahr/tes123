@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Perlu Dilindungi</string>
+    <string name="scan_title">Scan</string>
+    <string name="back">back</string>
+    <string name="check_in_status_success">Berhasil</string>
+    <string name="check_in_status_fail">Gagal</string>
+    <string name="room_temperature_fromat">%1$s°C</string>
+</resources>
