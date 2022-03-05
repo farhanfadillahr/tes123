@@ -31,6 +31,10 @@ interface FaskesService {
     fun getCity(@Query("start_id") start_id: String):
             Call<ProvinceResponse>
 
+    @GET("/api/get-faskes-vaksinasi")
+    fun getFaskesVaksinasi(@Query("province") province: String, @Query("city") city: String)
+
+
 }
 
 object FaskesApi {
