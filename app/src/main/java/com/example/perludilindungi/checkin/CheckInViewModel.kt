@@ -75,7 +75,7 @@ class CheckInViewModel : ViewModel() {
                 val response = CheckInApi.retrofitService.postCheckIn(requestBody)
 
 
-                _checkInStatus.value = response?.data.userStatus
+                _checkInStatus.value = response?.data?.userStatus
                 _checkInReason.value = response?.data?.reason
                 //TODO Handle No Internet Connection
             }

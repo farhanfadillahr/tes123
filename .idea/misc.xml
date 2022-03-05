@@ -3,26 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DATA/Kuliah/Semester 6/IF3210-Platform-based Application Development/Tugas git/if3210-2022-android-63/app/src/main/res/layout/activity_main.xml" value="0.12552083333333333" />
+        <entry key="..\:/DATA/Kuliah/Semester 6/IF3210-Platform-based Application Development/Tugas git/if3210-2022-android-63/app/src/main/res/layout/bookmark_fragment.xml" value="0.12552083333333333" />
+        <entry key="..\:/DATA/Kuliah/Semester 6/IF3210-Platform-based Application Development/Tugas git/if3210-2022-android-63/app/src/main/res/layout/check_in_fragment.xml" value="0.12552083333333333" />
+        <entry key="..\:/DATA/Kuliah/Semester 6/IF3210-Platform-based Application Development/Tugas git/if3210-2022-android-63/app/src/main/res/layout/detail_faskes.xml" value="0.18802083333333333" />
+        <entry key="..\:/DATA/Kuliah/Semester 6/IF3210-Platform-based Application Development/Tugas git/if3210-2022-android-63/app/src/main/res/layout/dropdown_item.xml" value="0.33" />
+        <entry key="..\:/DATA/Kuliah/Semester 6/IF3210-Platform-based Application Development/Tugas git/if3210-2022-android-63/app/src/main/res/layout/faskes_fragment.xml" value="0.25" />
+        <entry key="..\:/DATA/Kuliah/Semester 6/IF3210-Platform-based Application Development/Tugas git/if3210-2022-android-63/app/src/main/res/layout/list_faskes.xml" value="0.18854166666666666" />
+        <entry key="..\:/DATA/Kuliah/Semester 6/IF3210-Platform-based Application Development/Tugas git/if3210-2022-android-63/app/src/main/res/layout/news_fragment.xml" value="0.12552083333333333" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1155" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/circle.xml" value="0.1155" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/ic_baseline_bookmark.xml" value="0.1145" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.1145" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/ic_baseline_qr_code.xml" value="0.1145" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/ic_fail.xml" value="0.1145" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1145" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/ic_opening.xml" value="0.1145" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/ic_success.xml" value="0.1145" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/red_circle.xml" value="0.1145" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/rounded_textview.xml" value="0.1155" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/drawable/splash_image.xml" value="0.115" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/layout/bookmark_fragment.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/layout/activity_main.xml" value="0.18478260869565216" />
         <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/layout/check_in_fragment.xml" value="0.264" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/layout/faskes_fragment.xml" value="0.17119565217391305" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/layout/fragment_boomark.xml" value="0.17119565217391305" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/layout/news_fragment.xml" value="0.17239583333333333" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/menu/my_navigation_items.xml" value="0.17239583333333333" />
-        <entry key="..\:/Users/leona/Desktop/temp/if3210-2022-android-63/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1145" />
       </map>
     </option>
   </component>
